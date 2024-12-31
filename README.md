@@ -58,7 +58,7 @@
 ## 📫 Let's Connect!
 
 - Email: [gbatistadev@gmail.com](mailto:gbatistadev@gmail.com)
-- LinkedIn: [Gabriel Batista Barbosa](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Gabriel Batista Barbosa](https://www.linkedin.com/in/gabriel-barbosa07?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
