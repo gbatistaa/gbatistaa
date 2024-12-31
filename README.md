@@ -38,8 +38,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbatistaa&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbatistaa&layout=compact&theme=radical)
+![gbatistaa's Stats](https://github-readme-stats.vercel.app/api?username=gbatistaa&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+![gbatistaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gbatistaa&theme=synthwave&hide_border=true)
+![gbatistaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbatistaa&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
