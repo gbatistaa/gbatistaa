@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 <div style="display: flex justify-content: center align-items: center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=900&size=30&duration=2000&pause=1000&color=29FFA0&center=true&vCenter=true&width=435&lines=WELCOME!%F0%9F%91%8B;I'm+Gabriel)]        (https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=900&size=30&duration=2000&pause=1000&color=29FFA0&center=true&vCenter=true&width=435&lines=WELCOME!%F0%9F%91%8B;I'm+Gabriel)]        (https://git.io/typing-svg)
 </div>
 
 ---
