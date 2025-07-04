@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 - 🎓 **Education**: Undergraduate in Computer Science from Federal University of Sergipe.
-- 🌱 **Currently Learning**: React, Tailwindcss, C++ & NodeJS.
+- 👨🏽‍💻 **Stack**: React, Tailwindcss, C++ & NodeJS.
 - 💼 **Working On**: Trainee at SofTeam (Academic Junior Company).
 
 ---
