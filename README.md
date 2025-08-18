@@ -53,11 +53,11 @@
 
 ## 👨🏽‍💻 MyProjects
 
+- [**Taskly**](https://github.com/gbatistaa/taskly)
 - [**Pomodoro App**](https://github.com/gbatistaa/pomodoro-app)
 - [**Password Generator**](https://github.com/gbatistaa/password-generator)
 - [**Multi Step Form**](https://github.com/gbatistaa/multi-step-form)
-- [**Entertainment App (In Development)**](https://github.com/gbatistaa/entertainment-app)
-- [**Link Sharing App(In Development)**](https://github.com/gbatistaa/link-sharing-app)
+- [**Link Sharing App**](https://github.com/gbatistaa/link-sharing-app)
 
 ---
 
