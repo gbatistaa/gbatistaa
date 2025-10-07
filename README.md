@@ -9,7 +9,7 @@ l# 👋 Hi there!
 
 - 🎓 **Education**: Undergraduate in Computer Science from Federal University of Sergipe.
 - 👨🏽‍💻 **Stack**: React.js, TypeScript, Node.js, Express.js, Nest.js, TailwindCSS, & C++.
-- - 💼 **Working**: Full-stack developer intern at Revolution IT Services.
+- 💼 **Working**: Full-stack developer intern at Revolution IT Services.
 - 💼 **Work 2**: Trainee at SofTeam (Academic Junior Company).
 
 ---
