@@ -1,4 +1,4 @@
-# 👋 Hi there!
+l# 👋 Hi there!
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=900&size=30&duration=2000&pause=1000&color=29FFA0&center=true&vCenter=true&width=435&lines=WELCOME!%F0%9F%91%8B;I'm+Gabriel)
 
@@ -52,7 +52,7 @@
 ## ![gbatistaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbatistaa&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 ---
 
-## 👨🏽‍💻 MyProjects
+## 👨🏽‍💻 My projects
 
 - [**Taskly**](https://github.com/gbatistaa/taskly)
 - [**Pomodoro App**](https://github.com/gbatistaa/pomodoro-app)
