@@ -67,6 +67,8 @@
 ## 👨🏽‍💻 My projects
 
 - [**Taskly**](https://github.com/gbatistaa/taskly)
+- [**Mail Prism**](https://github.com/gbatistaa/email-classificator)
+- [**Tax Organizational Manager**](https://github.com/gbatistaa/tax-org-manager)
 - [**Pomodoro App**](https://github.com/gbatistaa/pomodoro-app)
 - [**Password Generator**](https://github.com/gbatistaa/password-generator)
 - [**Multi Step Form**](https://github.com/gbatistaa/multi-step-form)
