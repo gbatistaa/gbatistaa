@@ -11,8 +11,8 @@
 ## 🚀 About Me
 
 - 🎓 **Education**: Undergraduate in Computer Science from Federal University of Sergipe
-- 👨🏽‍💻 **Stack**: React.js, TypeScript, Node.js, Express.js, Nest.js, FastAPI, TailwindCSS, Docker & C++
-- 🌱 **Currently**: Expanding my knowledge in microservices architecture and cloud technologies
+- 👨🏽‍💻 **Stack**: React, React Native, TypeScript, Node.js, Express.js, Nest.js, FastAPI, TailwindCSS, Docker & C++
+- 🌱 **Currently**: Expanding my knowledge in microservices architecture, cloud technologies and Mobile Development
 
 ---
 
